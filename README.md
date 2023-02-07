@@ -17,10 +17,6 @@ Matching an Email= /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
 
@@ -74,14 +70,6 @@ EX: Example@example.com
 ### Bracket Expressions
 
 Bracket Expressions are when you use the square brackets "[]" and the represent a set of characters you want to match and target characters we want to include.
-
-### Greedy and Lazy Match
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
 
 ## Author
 
