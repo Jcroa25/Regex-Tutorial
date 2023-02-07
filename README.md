@@ -1,4 +1,4 @@
-# Regex-Tutorial# Summary
+# Regex-Tutorial for matching an email
 
 Regular Expressions are convenient and useful ways to search for a certain letter or phrase in your string.
 
