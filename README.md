@@ -1,4 +1,4 @@
-# Regex-Tutorial# Title (replace with your title)
+# Regex-Tutorial# Summary
 
 Regular Expressions are convenient and useful ways to search for a certain letter or phrase in your string.
 
